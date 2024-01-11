@@ -1,0 +1,210 @@
+{
+  "basics": {
+    "name": "Malek Cellier",
+    "label": "Senior Software Engineer",
+    "image": "",
+    "email": "malek.cellier (at) gmail.com",
+    "phone": "",
+    "url": "https://malekcellier.github.io/",
+    "summary": "Senior Software Engineer with experience in Telecoms and a passion for programming",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Stockholm",
+      "countryCode": "SE",
+      "region": "Stockholm"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "malekcellier",
+        "url": "https://twitter.com/malekcellier"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Aalborg University",
+      "location": "Aalborg, Denmark",
+      "url": "https://www.en.aau.dk/",
+      "area": "Electrical Engineering",
+      "studyType": "Master of Science (MSc)",
+      "startDate": "2002-09-01",
+      "endDate": "2003-06-30",
+      "score": "10",
+      "courses": ["Communication Theory", "Signal Processing", "Advanced Topics in Communication Theory", "Antennas", "Microwave Engineering", "Advanced Topics in Microwave Engineering"]
+    },
+    {
+      "institution": "Ecole Centrale d'Electronique",
+      "location": "Paris, France",
+      "url": "https://www.ece.fr/",
+      "area": "Electrical Engineering",
+      "studyType": "Master of Science (MSc)",
+      "startDate": "2000-09-01",
+      "endDate": "2003-06-30",
+      "score": "10",
+      "courses": ["Communication Theory", "Signal Processing", "Antennas", "Microwave Engineering", "Advanced Topics in Microwave Engineering", "Mathematics", "Physics"]
+    }    
+  ],
+  "certificates": [
+    {
+      "name": "Machine Learning",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-location-dot"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Multi-dimensional radio service maps for position-based self-organized networks",
+      "publisher": "IEEE",
+      "releaseDate": "2017-09-14",
+      "url": "https://ieeexplore.ieee.org/abstract/document/8031530",
+      "summary": "Increasing spectral and energy efficiency in future networks requires flexible and timely allocation of radio resources along multiple dimensions including frequency, time and space. Although this multi-dimensionality offers additional degrees of freedom, it however comes at the cost of higher complexity. To this end, it is envisaged that spatial information associated with user resource allocation will provide a means for an efficient utilization of a dense radio access network (RAN) infrastructure in a proactive and self-optimized manner. In this paper, we propose a novel approach that aims at the utilization of multi-dimensional (MD) radio service maps (RSM) for storing and exploiting position-based information. Requirements, key concepts and functions are described. The potential gains in energy consumption and efficiency of the radio service maps are shown by means of numerical results for an ultra-dense network deployment scenario."
+    },
+    {
+      "name": "Enhancing Uplink Performance in UTRAN LTE networks by Load Adaptive Power Control",
+      "publisher": "ETT21",
+      "releaseDate": "2010-06-22",
+      "url": "http://onlinelibrary.wiley.com/doi/10.1002/ett.1426/abstract",
+      "summary": "Uplink power control in 3GPP UTRAN long term evolution (LTE) networks consists of a closed-loop scheme around an open-loop point of operation. The uplink performance of the network is decisively influenced by power control. This paper provides insight into the uplink power control procedure and its interworking with adaptive transmission bandwidth (ATB) as well as adaptive modulation and coding (AMC). A detailed performance evaluation is presented based on system level simulations. In the first step, the performance of pure open-loop power control (OLPC) was analysed and the impact of parameter settings on resource allocation, utilisation of specific modulation and coding schemes (MCS), re-transmission rate, and resulting throughput was determined. A two-dimensional parameter optimisation for full path-loss (PL) compensation and fractional power control (FPC) was performed to conclude the best strategy for the trade-off between network capacity and coverage. In the second step, the impact of traffic load on the interaction between the different LTE radio resource management algorithms was analysed. A novel strategy is presented which introduces traffic load dependent decisions for the closed-loop power control (CLPC) component to optimise the uplink throughput. This solution provides an automatic configuration for LTE networks without further intervention by the operator."
+    },
+    {
+      "name": "Load Adaptive Power Control in LTE Uplink",
+      "publisher": "IEEE",
+      "releaseDate": "2010-04-15",
+      "url": "http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5483432",
+      "summary": "In LTE Uplink, the slow varying pathgain and shadowing are compensated by the standardized open loop power control (OLPC) which is based on a power density offset and a compensating factor for the pathloss experienced by the users. The optimization of those parameters reveals a dependency on the allocated bandwidth. A Load Adaptive Power Control (LAPC) algorithm is proposed to handle the bandwidth variations and ensure optimal system performance. In this contribution it is shown that using closed loop power control commands to adapt the transmission power density to the used bandwidth, it is possible to achieve coverage gains up to 60% while maintaining a cell throughput comparable to the reference case."
+    },
+    {
+      "name": "Errors on the HSUPA E-HICH Channel and their Effect on System Performance",
+      "publisher": "IEEE",
+      "releaseDate": "2007-04-25",
+      "url": "http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=4212632",
+      "summary": "The E-HICH is a downlink control channel associated to the HARQ procedure in HSUPA. It allows the MAC-e entity in the NodeB to signal the correct or incorrect reception of a given MAC-e PDU by transmitting ACKs or NACKs. Errors on this channel can cause misinterpretations and impact the overall system performance. This paper looks at the performance impact caused by two types of errors: ACK misinterpreted as NACK and vice versa. Detailed user and system performance results versus the error levels on the E-HICH are provided for both cases. A2N errors cause a direct degradation of the user throughput that increases with the probability. N2A errors have a more intricate impact that leads to opposite effects. On the one hand, it causes the level of RLC retransmissions to increase. On the other hand, the missing PDUs change the HARQ operating point which will then decrease the RLC retransmission level. The overall consequence is a lowered cell and user throughput for lowly loaded networks, whereas it is almost imperceptible in fully loaded networks."
+    },
+    {
+      "name": "High Speed Uplink Packet Access Evaluation by Dynamic Network Simulations",
+      "publisher": "IEEE",
+      "releaseDate": "2006-09-14",
+      "url": "http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=4022311",
+      "summary": "High speed uplink packet access (HSUPA) improves the cell throughput by faster scheduling, L1 HARQ and enhanced bit rates. This paper introduces a dynamic system simulator for studying HSUPA system performance. This simulator is used to analyze the effect on the cell throughput of increasing the BLER target and the target number of transmissions. The L3 cell throughput increases when the target number of transmissions increases, while the control overhead in terms of transmission power is estimated to be approximately 25%."
+    },
+    {
+      "name": "The Impact of RLC Delivery Sequence on FTP Performance in UMTS",
+      "publisher": "IEEE",
+      "releaseDate": "2005-09-28",
+      "url": "http://vbn.aau.dk/da/publications/the-impact-of-rlc-delivery-sequence-on-ftp-performance-in-umts(ca1ffe30-9c2c-11db-8ed6-000ea68e967b).html",
+      "summary": "The Radio Link Control (RLC) protocol of Universal Mobile Telecommunication System (UMTS) provides an option for in- or out-of-sequence delivery of Service Data Units (SDUs) to upper layers. In this paper, the impact of this setting on the performance of File Transport Protocol (FTP) sessions is investigated. The investigations are carried out using a real-time emulation platform, and Transmission Control Protocol (TCP) with and without Selective Acknowledgement/Forward Acknowledgment (SACK/FACK) options. The results show that out-of-sequence delivery has a negative impact at higher bandwidths and TCP FACK exacerbates the problem. This is mainly due to the aggressive retransmission strategy employed by FACK, which considers the gaps in a SACK report caused by reordering as lost segments and retransmits them immediately."
+    },
+    {
+      "name": "RESPECT: A Real Time Emulator for Service Performance Evaluation in Cellular neTworks",
+      "publisher": "IEEE",
+      "releaseDate": "2005-09-28",
+      "url": "http://ieeexplore.ieee.org/Xplore/login.jsp?url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F10422%2F33094%2F01557941.pdf%3Farnumber%3D1557941&authDecision=-203",
+      "summary": "The evaluation and optimization of packet service performance in wireless networks is a complex process, considering the number of heterogeneous entities and protocols that are involved. An emulation platform comes at hand for such performance investigations as it provides a means to see the performance from an end-2-end (E2E), user-perceived Quality Of Service (QoS) point of view. In this paper, the design and implementation of RESPECT, an easily configurable network emulator is described. RESPECT was originally geared towards Universal Mobile Communications System (UMTS) networks, but thanks to its modular and scalable design, it is being extended for generic heterogeneous networks. Using RESPECT, QoS studies can be carried out to study the behavior of different services in different network conditions, identify generalized service dependent performance metrics for already existing services and predict network environment requirements for future services."
+    },
+    {
+      "name": "Emulation Based Performance investigation of FTP file downloads over UMTS dedicated channels",
+      "publisher": "IEEE",
+      "releaseDate": "2005-04-21",
+      "url": "http://vbn.aau.dk/en/publications/emulation-based-performance-investigation-of-ftp-file-downloads-over-umts-dedicated-channels(0e559ba0-7487-11db-abfe-000ea68e967b).html",
+      "summary": "The Radio Link Control (RLC) protocol of Universal Mobile Telecommunication System (UMTS) provides a link layer reliability that could mitigate the effects of the hostile radio propagation channel on packet data transmission. The RLC standard provides several mechanisms and associated parameters that determine the workings of this reliability scheme. In this paper, the impact of some of these schemes and parameters on the performance of FTP file downloads is investigated. The investigations are carried out using a real time emulation platform, which makes the results from this study more realistic than simulation or simplified analytical studies as the overall End-2-End performance is analyzed involving real world protocol implementations."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Physics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Basic",
+      "icon": ""
+    },
+    {
+      "language": "Danish",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Physics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    },
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    }
+  ]
+}
