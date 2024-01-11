@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New personnal page live! Powered by Jekyll with al-folio theme. Hosted by GitHub Pages.
+New personnal page live! Powered by Jekyll with al-folio theme. Hosted by GitHub Pages. :sparkles: :smile:

@@ -19,9 +19,9 @@ social: true # includes social icons at the bottom of the page
 
 **Hi!**
 
-I'm Malek, a ``Senior Software Engineer`` with over 20 years of R&D experience in the telecom industry focusing on ``Radio Resource Management``, I have developed strong problem-solving skills and domain knowledge. I leverage these to design, implement, and evaluate algorithms resulting in better-performing products. My work in that area has resulted in publications, 3GPP contributions, IPRs and patents.
+I'm Malek, a ``Senior Software Engineer`` with over 20 years of ``R&D`` experience in the telecom industry focusing on ``Radio Resource Management``, I have developed strong problem-solving skills and domain knowledge. I leverage these to design, implement, and evaluate algorithms resulting in better-performing products. My work in that area has resulted in publications, 3GPP contributions, IPRs and patents.
 
-With a solid grounding in Linux, I thrive on crafting and architecting systems. I've developed an array of simulation tools across languages such as Python, OpenGL, C/C++, and MATLAB, all while implementing leading DevOps methodologies. My expertise in software engineering has continually deepened throughout the years and encompasses shell/Python scripting, web frontend/backend, network/socket programming, graphics card programming, multiprocessing/threading programming.
+With a solid grounding in Linux, I thrive on crafting and architecting systems. I've developed an array of simulation tools across languages such as ``Python``, ``OpenGL``, C, ``C++``, and MATLAB, all while implementing leading ``DevOps`` methodologies. My expertise in software engineering has continually deepened throughout the years and encompasses shell/Python scripting, web frontend/backend, ``network/socket`` programming, ``graphics-card`` programming, ``multiprocessing/threading`` programming.
 
 In short:
 
