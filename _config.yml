@@ -104,7 +104,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Feel free to reach out using linkeding or github.
+  Feel free to reach out using linkedin or github.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -124,7 +124,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Thoughts & Tools # blog_name will be displayed in your blog page
-blog_description: a simple repository of my thoughts and tools # blog_description will be displayed in your blog page
+blog_description: a repository of my thoughts and tools # blog_description will be displayed in your blog page
 permalink: /blog/:year/:title/
 
 # Pagination

@@ -23,7 +23,7 @@ I'm Malek, a ``Senior Software Engineer`` with over 20 years of ``R&D`` experien
 
 With a solid grounding in Linux, I thrive on crafting and architecting systems. I've developed an array of simulation tools across languages such as ``Python``, ``OpenGL``, C, ``C++``, and MATLAB, all while implementing leading ``DevOps`` methodologies. My expertise in software engineering has continually deepened throughout the years and encompasses shell/Python scripting, web frontend/backend, ``network/socket`` programming, ``graphics-card`` programming, ``multiprocessing/threading`` programming.
 
-In short:
+**In short:**
 
 - ``Background``: I have worked for companies like Nokia, Ericsson, Huawei designing and implementing algorithms to improve Radio Resource Management (RRM) for 3G, 4G, 5G
 - ``Interests``: I have specialized in building and using simulation tools and platforms in Python, C++, WebGl, OpenGL. I have built simulation engines, OpenGL renderer for data processing
@@ -32,4 +32,4 @@ In short:
 
 Cheers
 
-Malek Cellier
+**Malek Cellier**
