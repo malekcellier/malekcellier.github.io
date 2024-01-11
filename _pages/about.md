@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Senior Software Engineer. R&D Scientist.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Stockholm, Sweden</p>
@@ -29,4 +29,5 @@ In short:
 - ``Contact``: If you want to get in touch, contact me here or through LinkedIn.
 
 Cheers
+
 Malek Cellier
