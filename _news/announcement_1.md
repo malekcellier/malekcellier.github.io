@@ -5,4 +5,8 @@ inline: true
 related_posts: false
 ---
 
-New personnal page live! Powered by Jekyll with al-folio theme. Hosted by GitHub Pages. :sparkles: :smile:
+:sparkles: New personal page up and running. :smile:
+
+Powered by Jekyll with al-folio theme.
+
+Hosted by GitHub Pages.
