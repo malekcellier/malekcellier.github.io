@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:sparkles: New personal page up and running :sparkles: Hosted by GitHub Pages :octocat: & Powered by Jekyll with al-folio theme.
+:sparkles: New personal page up and running :sparkles: *Hosted by GitHub Pages & Powered by Jekyll with al-folio theme.*
