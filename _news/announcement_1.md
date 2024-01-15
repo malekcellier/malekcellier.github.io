@@ -5,8 +5,9 @@ inline: true
 related_posts: false
 ---
 
-:sparkles: New personal page up and running. :smile:
+:sparkles: New personal page up and running. :sparkles:
 
+<p></p>
 Powered by Jekyll with al-folio theme.
 
 Hosted by GitHub Pages.
