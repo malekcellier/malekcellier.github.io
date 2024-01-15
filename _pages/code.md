@@ -3,7 +3,7 @@ layout: page
 permalink: /code/
 title: code
 description: Research code release and open source projects.
-nav: true
+nav: false
 nav_order: 4
 ---
 
